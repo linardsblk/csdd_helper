@@ -1,0 +1,12 @@
+{
+  "name": "CSDD B Kategorijas palīgs",
+  "description": "Palīdz izlaist testa jautājumus un ļauj atbildēt ar tastatūras numuru taustiņiem",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["http://csnt.csdd.lv/*", "http://csnt2.csdd.lv/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
