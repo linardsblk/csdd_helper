@@ -10,6 +10,7 @@
 - Ļauj apskatīt kļūdas un un sākt jaunu testu ar Enter taustiņu
 - Autoplay video jautājumiem (dažreiz)
 - Video jautājumiem pause/play ar atstarpes taustiņu
+- Left/Right arrow keys, lai ietu cauri kļūdām
 
 
 ## Tā kā nevar ievietot Chrome Web store bez developer account (5 dollāri...), instalācija notiek šādi:
